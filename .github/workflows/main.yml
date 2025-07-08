@@ -13,4 +13,4 @@ jobs:
           node-version: '18'
       - run: npm install
       - run: npm run build
-      - run: npx vercel --prod --token ${{ secrets.VERCEL_TOKEN }}
+      - run: npx vercel --prod --token ${{ secrets.WZYGhEuVIwEhJhHNIBsc1Kgz }}
